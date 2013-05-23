@@ -5,7 +5,7 @@ title : tag列表
 {% include JB/setup %}
 
 {% for tag in site.tags %} 
-    <a name="#{{ tag[0] }}-ref">{{ tag[0] }} <span>{{ tag[1].size }}</span>
+    <a name="#{{ tag[0] }}-ref">{{ tag[0] }} <span>{{ tag[1].size }}</span></a>
     <ul>
     	{% for post in tag[1] %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
