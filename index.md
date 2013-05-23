@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 缸中的大脑!
 ---
 {% include JB/setup %}
 

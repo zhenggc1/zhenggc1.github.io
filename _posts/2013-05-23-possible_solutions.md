@@ -3,7 +3,7 @@ layout: post
 title: "可能的方案"
 description: ""
 category: 
-tags: []
+tags: [模拟方法]
 ---
 {% include JB/setup %}
 
