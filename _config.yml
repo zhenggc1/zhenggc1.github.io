@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 缸中的大脑
+title : 缸中之脑
 tagline: jvm应用外围调用隔离
 author :
   name : leo
