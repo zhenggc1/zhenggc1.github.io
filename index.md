@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 缸中之脑!
+title: 缸中之脑
 ---
 {% include JB/setup %}
 
