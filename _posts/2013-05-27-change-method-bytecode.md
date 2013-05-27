@@ -3,7 +3,7 @@ layout: post
 title: "修改方法字节码"
 description: ""
 category: 
-tags: [转化字节码]
+tags: ["转化字节码"]
 ---
 {% include JB/setup %}
 
@@ -18,4 +18,7 @@ tags: [转化字节码]
 1. 录制请求
 1. 修改相应的请求结果，以适应回放
 1. 回放请求
+
+
+
 
