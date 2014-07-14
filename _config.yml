@@ -6,8 +6,8 @@ pygments: true
 
 markdown: rdiscount
 
-title : 缸中之脑
-tagline: jvm应用外围调用隔离
+title : 折腾不止
+tagline: 折腾一些软硬件相关的内容
 author :
   name : leo
   github : zhenggc1
