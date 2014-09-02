@@ -30,26 +30,11 @@ JB :
 
   comments :
     provider : false
-    disqus :
-      short_name : kpushblog
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
    
   analytics :
     provider : google 
     google : 
         tracking_id : 'UA-3090256-4'
-    getclicky :
-      site_id : 
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
 
   sharing :
     provider : false
