@@ -6,8 +6,8 @@ pygments: true
 
 markdown: rdiscount
 
-title : 折腾不止
-tagline: 折腾一些软硬件相关的内容
+title : 性能杂谈
+tagline: 关于性能优化，我所知道的一切
 author :
   name : leo
   github : zhenggc1
