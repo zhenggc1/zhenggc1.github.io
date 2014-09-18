@@ -6,3 +6,5 @@ group: navigation
 {% include JB/setup %}
 
 我是谁？
+
+email me<zhenggc1+perf@gmail.com>
