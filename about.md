@@ -7,4 +7,4 @@ group: navigation
 
 我是谁？
 
-email me<zhenggc1+perf@gmail.com>
+[email me](mailto:zhenggc1+perf@gmail.com)
