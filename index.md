@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 性能杂谈
+title: 关于性能的一切
 ---
 {% include JB/setup %}
 
