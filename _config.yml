@@ -40,3 +40,5 @@ JB :
     provider : false
     
   
+
+theme: jekyll-theme-architect
